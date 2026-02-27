@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Phadungkiart%20Namsai&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 # Hi 👋 I'm Phadungkiart Namsai Mean
 
 ### Software Engineer  
@@ -46,5 +49,3 @@ Software Engineer with experience in full-stack development, mobile applications
 - MCP (Model Context Protocol)  
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Phadungkiart%20Namsai&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
