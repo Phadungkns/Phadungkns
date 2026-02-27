@@ -49,3 +49,4 @@ Software Engineer with experience in full-stack development, mobile applications
 - MCP (Model Context Protocol)  
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2C3E50&height=120&section=footer"/>
