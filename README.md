@@ -46,3 +46,6 @@ Software Engineer with experience in full-stack development, mobile applications
 - MCP (Model Context Protocol)  
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phadungkns&show_icons=true&theme=tokyonight" />
+</p>
